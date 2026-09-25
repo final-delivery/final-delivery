@@ -31,7 +31,7 @@
 
   <!-- RIGHT (STRAW) -->
   <a href="https://leonskennedyz.straw.page">
-    <img src="https://github.com/user-attachments/assets/977c93fe-2d23-4837-b1d2-5173994d3f8d"width="200">straw
+    <img src="https://github.com/user-attachments/assets/2438d0c5-6887-4f51-9c6d-392bbb83d6a7"width="200">straw
   </a>
 
 </div>
