@@ -7,7 +7,7 @@
 </tr>
 </table>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=deliveries&color=264672&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=deliveries&color=73230F&style=flat-square" alt="Profile views" />
 </p>
 </picture>
 <p align="center">
